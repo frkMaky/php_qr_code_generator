@@ -1,0 +1,17 @@
+{
+    "name": "pablo/qr_code_generator",
+    "autoload": {
+        "psr-4": {
+            "Pablo\\QrCodeGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pablo Maquieira",
+            "email": "freakghost@gmail.com"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}
